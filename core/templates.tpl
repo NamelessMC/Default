@@ -69,6 +69,8 @@
                                             {/if}
                                             <br />
                                             <small>{$template.author_x}</small>
+                                            <br />
+                                            <small>{$template.renderer_x}</small>
                                         </td>
                                         <td>
                                             <div class="float-md-right">
